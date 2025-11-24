@@ -12,7 +12,8 @@
   "host_permissions": [
     "*://www.linkedin.com/*",
     "http://localhost:3000/*",
-    "https://luzz-backend-production.up.railway.app/*"
+    "https://luzz-backend-production.up.railway.app/*",
+    "https://cleanedin.vercel.app/*"
   ],
   
   "background": {
