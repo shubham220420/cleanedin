@@ -175,7 +175,7 @@ export default function Home() {
           {/* Download Button */}
           <div className="text-center">
             <a 
-              href="/CleanedIn-extension.zip" 
+              href="/cleanedin-extension.zip" 
               download="cleanedin-extension.zip"
               className="group relative inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-purple-600 via-pink-500 to-purple-600 rounded-full text-white font-semibold text-lg shadow-lg hover:shadow-purple-500/25 transition-all duration-300 hover:scale-105 overflow-hidden"
             >
