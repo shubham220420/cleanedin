@@ -1,7 +1,7 @@
 // Background script for LinkedIn Cleaner
 console.log('LinkedIn Cleaner background script loaded');
 
-const SERVER_URL = 'https://cleanedin-backend-production.up.railway.app';
+const SERVER_URL = 'https://luzz-backend-production.up.railway.app';
 
 // Keep service worker alive
 let keepAliveInterval;
