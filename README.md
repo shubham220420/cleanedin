@@ -37,7 +37,7 @@ The result is a cleaner, more professional LinkedIn feed that respects your time
 ## Try CleanedIn
 
 Visit CleanedIn's website to learn more and download the extension:
-[http://CleanedIn-frontend.vercel.app/](http://CleanedIn-frontend.vercel.app/)
+[http://CleanedIn-frontend.vercel.app/](http://CleanedIn.vercel.app/)
 
 ## Installation Guide
 
